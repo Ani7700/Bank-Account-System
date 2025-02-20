@@ -31,6 +31,6 @@
 *.out
 *.app
 
-.vscode/
-Debug/
-output/
+Finance/.vscode/
+Finance/Debug/
+Finance/output/
